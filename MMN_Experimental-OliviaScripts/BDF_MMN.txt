@@ -1,0 +1,34 @@
+Bin 1
+Std11_after_11
+{11}.{11}
+
+Bin 2
+Std21_after_21
+{21}.{21}
+
+Bin 3
+Std31_after_31
+{31}.{31}
+
+Bin 4
+Std41_after_41
+{41}.{41}
+
+Bin 5
+Dev12
+.{12}
+
+Bin 6
+Dev22
+.{22}
+
+Bin 7
+Dev32
+.{32}
+
+Bin 8
+Dev42
+.{42}
+
+
+
