@@ -1,4 +1,5 @@
-Adapting the [LuckLab ERPCORE EEG Preprocessing Pipeline](https://github.com/lucklab/ERP_CORE) to find MMN and practice with pipelie execution. 
+## MMN Preprocessing
+Adapting the [LuckLab ERPCORE EEG Preprocessing Pipeline](https://github.com/lucklab/ERP_CORE) to find MMN and practice with pipeline execution. 
 
 ### What Have I Learnt From This Experience?
 - Practice with EEG Preprocessing and experimental design.
@@ -12,4 +13,4 @@ Adapting the [LuckLab ERPCORE EEG Preprocessing Pipeline](https://github.com/luc
 All Scripts contain notations of useful syntax and methodology, for my own learning. I have found this experience very useful for future work with preprocessing pipelines!
 
 > [!NOTE]
-> No data is included, as this was just adapted as evidence of my learning! All scripts were made by [LuckLab](https://github.com/lucklab/ERP_CORE), I have only made adaptations for learning and pipeline validation. 
+> No data is included, as this was just adapted as evidence of my learning! All scripts were made by [LuckLab](https://github.com/lucklab/ERP_CORE). This work is licensed by the original creators under a [Creative Commons Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
